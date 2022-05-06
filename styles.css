@@ -12,4 +12,8 @@ a {
     width: 10%;
 }
 
+.card {
+    border: 1px dashed red;
+    width: 300px;
+}
 
