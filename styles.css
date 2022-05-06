@@ -1,0 +1,14 @@
+a {    
+    color: white;
+}
+
+.title {
+    /*debug*/
+    border: 1px dashed red;
+    background-color: rgb(63, 93, 138) ;
+}  
+
+.avatar {
+    width: 10%;
+}
+
