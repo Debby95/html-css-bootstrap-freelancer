@@ -1,19 +1,36 @@
-a {    
-    color: white;
-}
-
-.title {
-    /*debug*/
-    border: 1px dashed red;
-    background-color: rgb(63, 93, 138) ;
-}  
 
 .avatar {
     width: 10%;
 }
 
 .card {
-    border: 1px dashed red;
     width: 100%;
 }
 
+.download {
+    width: 15px;
+}
+
+.bg-color-nav-footer {
+    background-color: rgb(67, 87, 117) ;
+}
+
+.fb {
+    width: 15px;
+}
+
+.google {
+    width: 15px;
+}
+
+.twitter {
+    width: 15px;
+}
+
+.linkedin {
+    width: 15px;
+}
+
+.bg-footer {
+    background-color: rgb(55, 67, 83)
+}
