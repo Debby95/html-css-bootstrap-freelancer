@@ -1,3 +1,6 @@
+a {
+    text-decoration: none;
+}
 
 .avatar {
     width: 10%;
@@ -33,4 +36,18 @@
 
 .bg-footer {
     background-color: rgb(55, 67, 83)
+}
+
+.form-control {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.form-control:focus {
+    box-shadow: red;
+}
+
+.form-floating > label {
+    padding-left: 0;
 }
