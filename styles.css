@@ -47,3 +47,7 @@ a {
 .form-floating > label {
     padding-left: 0;
 }
+
+.star {
+    width: 20px;
+}
