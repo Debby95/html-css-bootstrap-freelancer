@@ -44,10 +44,6 @@ a {
     border-right: 0;
 }
 
-.form-control:focus {
-    box-shadow: red;
-}
-
 .form-floating > label {
     padding-left: 0;
 }
